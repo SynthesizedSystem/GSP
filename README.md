@@ -16,7 +16,6 @@ Jeder Ordner repräsentiert eine spezifische Übung aus dem Praktikum. Die Aufga
 - `Aufgabe_3/` - BITMAP (In Entwicklung)
 - `Aufgabe_4/` - Wire Bus (In Entwicklung)
 - `Aufgabe_5/` - Drehgeber Interrupt (In Entwicklung)
-- `Aufgabe_6/` - Drehgeber Interrupt (In Entwicklung)
 
 ## Voraussetzungen
 
